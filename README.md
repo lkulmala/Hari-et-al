@@ -1,4 +1,4 @@
-Data and scripts to produce the figures in the research article entitled Annual cycle in scots pine's photosynthesis. Please cite the paper if you are using the code or data in research publications.
+Data and scripts to produce the figures in the research article entitled **Annual cycle in scots pine's photosynthesis**. Please cite the paper if you are using the code or data in research publications.
 
 Article: Pertti Hari, Veli-Matti Kerminen, Liisa Kulmala, Markku Kulmala, Steffen Noe, Tuukka Petäjä, Anni Vanhatalo, Jaana Bäck (2017). Annual cycle in scots pine's photosynthesis. Manuscript.
 
